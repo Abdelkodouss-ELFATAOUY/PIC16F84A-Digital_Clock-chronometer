@@ -1,0 +1,20 @@
+main
+	__CC2DW
+		____DoICP
+	reglage
+		display_7seg_2Digit_D
+			Div_8X8_U
+		blink_parameter
+		display_7seg_2Digit_G
+			Div_8X8_U
+	chronometre
+		display_7seg_2Digit_D
+			Div_8X8_U
+		display_7seg_2Digit_G
+			Div_8X8_U
+	horloge
+		display_7seg_2Digit_D
+			Div_8X8_U
+		display_7seg_2Digit_G
+			Div_8X8_U
+interrupt
