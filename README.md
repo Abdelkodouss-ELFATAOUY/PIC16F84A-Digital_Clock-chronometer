@@ -1,6 +1,7 @@
 # PIC16F84A-Digital_Clock-chronometer
 Réalisation d’une horloge &amp; chronomètre à base du microcontrôleur PIC16F84A.
 - Utilisation d'un TIMER 0, TIMER 2 PIC16f84A
+ ![ezgif com-video-to-gif](https://github.com/Abdelkodouss-ELFATAOUY/PIC16F84A-Digital_Clock-chronometer/assets/142337040/44e0e512-f60a-4db3-976b-09ad82d7cbc3)
 # EasyEDA
 - 3D
  ![3D](https://github.com/Abdelkodouss-ELFATAOUY/PIC16F84A-Digital_Clock-chronometer/assets/142337040/6699b328-970c-4bc5-9f21-3af40dea87dd)
